@@ -34,5 +34,5 @@ Sara has been developed with mental health safety in mind. It does **not** offer
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sarah-mental-peace-bot.git
+   git clone https://github.com/viv007_cyber/sarah-mental-peace-bot.git
    cd sara-mental-peace-bot
